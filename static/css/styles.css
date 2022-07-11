@@ -1,0 +1,29 @@
+body {
+    padding-top: 20px;
+}
+
+.text-task {
+    font-weight:bold;
+    font-size: large;
+}
+
+.text-green{
+    font-weight:bold;
+    color: green;
+    text-transform: uppercase;
+}
+
+.text-red{
+    font-weight:bold;
+    color: red;
+    text-transform: uppercase;
+}
+
+.text-deadline{
+    font-style: italic;
+    color: #ff2cb6;
+}
+
+.text-tag{
+    color: grey;
+}
