@@ -18,4 +18,4 @@ python manage.py runserver  # start Django project
 * Managing tasks
 * Admin panel for advanced managing
 ## Demo
-![Home page](https://prnt.sc/OCzulwW2Mwuq)
+![Home page](static/home_page.png)
